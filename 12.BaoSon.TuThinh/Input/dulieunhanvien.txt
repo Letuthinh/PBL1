@@ -1,3 +1,0 @@
-tendangnhap;mk;MaNV;HovaTen;Tuoi;Luong;GioLamViec
-thinhle;123112;nv2;Le Tu Thinh;20;6;50000000
-kiken123;123123;nv3;Truong Bao Son;24;5;5000000
