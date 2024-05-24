@@ -7,7 +7,6 @@ Laptop::Laptop(string malaptop, string hang, string ten,long gia,int soluong, in
     this->gia=gia;
     this->soluong=soluong;
     this->namsanxuat=namsanxuat;
-
 }
         void Laptop::setMalaptop(string malaptop){
 			this->malaptop=malaptop;
