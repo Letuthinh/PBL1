@@ -1,6 +1,6 @@
 #include "laptop.cpp"
 #include "nhanvien.cpp"
-/*Ham Menu cho muc quan li kho*/
+//*Ham Menu cho muc quan li kho*//
 int menu1(){
     chon:
         system("cls");
